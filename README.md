@@ -38,3 +38,6 @@ Adds formatting to 5-day forecast and cards
 
 # Deployed Link :
 https://sarita87das.github.io/hw6/ 
+
+# Demonstration of Application :
+![Demo](weatherdashboard.gif)
