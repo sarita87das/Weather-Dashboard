@@ -33,6 +33,8 @@ Adds formatting to 5-day forecast and cards
 # One Javascript Page :
  Contains: * Variables, including array * Event listeners * For each loop *
  
- # Local Storage
+ # Local Storage :
   set and get.
 
+# Deployed Link :
+https://sarita87das.github.io/hw6/ 
